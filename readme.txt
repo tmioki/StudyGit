@@ -7,8 +7,8 @@ git 調査
  （コンポーネントを横断する機能においてはリモートリポジトリがsvnサーバと同じになりかねない）
 
 eclipse と git の連携でやりたいこと
-1. ローカルリポジトリへの push / pull / history / commit / add: 可能
-2. リモートリポジトリへの push / pull : 未確認
+1. ローカルリポジトリへの push / pull / history / commit / add: 確認
+2. リモートリポジトリへの push / pull : 確認
 2-1. svn リポジトリからの pull : 未確認
 2-2. svn リポジトリへの push : 未確認
 
